@@ -1,0 +1,1105 @@
+
+Registro di Log : 14:52:48 lunedì 21 gennaio 2019
+  :
+  :Inizializzato	21/01/2019 14:52:48
+-------------------------------
+
+Registro di Log : 14:52:53 lunedì 21 gennaio 2019
+  :
+  :Nuova connessione IN	21/01/2019 14:52:53
+-------------------------------
+
+Registro di Log : 14:52:53 lunedì 21 gennaio 2019
+  :
+  :Dato letto: 04309830	21/01/2019 14:52:53
+-------------------------------
+
+Registro di Log : 14:52:54 lunedì 21 gennaio 2019
+  :
+  :APRI	21/01/2019 14:52:54
+-------------------------------
+
+Registro di Log : 14:53:05 lunedì 21 gennaio 2019
+  :
+  :Nuova connessione IN	21/01/2019 14:53:05
+-------------------------------
+
+Registro di Log : 14:53:05 lunedì 21 gennaio 2019
+  :
+  :Dato letto: 0430983	21/01/2019 14:53:05
+-------------------------------
+
+Registro di Log : 14:53:05 lunedì 21 gennaio 2019
+  :
+  :CHIUDI	21/01/2019 14:53:05
+-------------------------------
+
+Registro di Log : 14:53:10 lunedì 21 gennaio 2019
+  :
+  :Nuova connessione IN	21/01/2019 14:53:10
+-------------------------------
+
+Registro di Log : 14:53:10 lunedì 21 gennaio 2019
+  :
+  :Dato letto: 0430983	21/01/2019 14:53:10
+-------------------------------
+
+Registro di Log : 14:53:10 lunedì 21 gennaio 2019
+  :
+  :CHIUDI	21/01/2019 14:53:10
+-------------------------------
+
+Registro di Log : 14:53:20 lunedì 21 gennaio 2019
+  :
+  :Nuova connessione IN	21/01/2019 14:53:20
+-------------------------------
+
+Registro di Log : 14:53:20 lunedì 21 gennaio 2019
+  :
+  :Dato letto: 04309830	21/01/2019 14:53:20
+-------------------------------
+
+Registro di Log : 14:53:20 lunedì 21 gennaio 2019
+  :
+  :APRI	21/01/2019 14:53:20
+-------------------------------
+
+Registro di Log : 16:43:21 lunedì 21 gennaio 2019
+  :
+  :Inizializzato	21/01/2019 16:43:21
+-------------------------------
+
+Registro di Log : 16:46:24 lunedì 21 gennaio 2019
+  :
+  :Nuova connessione IN	21/01/2019 16:46:24
+-------------------------------
+
+Registro di Log : 16:46:54 lunedì 21 gennaio 2019
+  :
+  :Nuova connessione IN	21/01/2019 16:46:54
+-------------------------------
+
+Registro di Log : 16:48:42 lunedì 21 gennaio 2019
+  :
+  :Inizializzato	21/01/2019 16:48:42
+-------------------------------
+
+Registro di Log : 16:48:48 lunedì 21 gennaio 2019
+  :
+  :Nuova connessione IN	21/01/2019 16:48:48
+-------------------------------
+
+Registro di Log : 12:20:28 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:20:28
+-------------------------------
+
+Registro di Log : 12:20:51 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:20:51
+-------------------------------
+
+Registro di Log : 12:20:52 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:20:52
+-------------------------------
+
+Registro di Log : 12:20:52 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:20:52
+-------------------------------
+
+Registro di Log : 12:21:35 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:21:35
+-------------------------------
+
+Registro di Log : 12:21:41 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:21:41
+-------------------------------
+
+Registro di Log : 12:21:41 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:21:41
+-------------------------------
+
+Registro di Log : 12:21:41 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:21:41
+-------------------------------
+
+Registro di Log : 12:21:48 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:21:48
+-------------------------------
+
+Registro di Log : 12:21:48 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:21:48
+-------------------------------
+
+Registro di Log : 12:21:48 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:21:48
+-------------------------------
+
+Registro di Log : 12:30:25 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:30:25
+-------------------------------
+
+Registro di Log : 12:30:45 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:30:45
+-------------------------------
+
+Registro di Log : 12:30:45 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:30:45
+-------------------------------
+
+Registro di Log : 12:30:45 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:30:45
+-------------------------------
+
+Registro di Log : 12:34:49 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:34:49
+-------------------------------
+
+Registro di Log : 12:34:54 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:34:54
+-------------------------------
+
+Registro di Log : 12:34:55 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:34:55
+-------------------------------
+
+Registro di Log : 12:34:55 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:34:55
+-------------------------------
+
+Registro di Log : 12:34:56 martedì 29 gennaio 2019
+  :
+  :CHIUDI	29/01/2019 12:34:56
+-------------------------------
+
+Registro di Log : 12:35:04 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:35:04
+-------------------------------
+
+Registro di Log : 12:35:04 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:35:04
+-------------------------------
+
+Registro di Log : 12:35:04 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:35:04
+-------------------------------
+
+Registro di Log : 12:35:05 martedì 29 gennaio 2019
+  :
+  :CHIUDI	29/01/2019 12:35:05
+-------------------------------
+
+Registro di Log : 12:36:23 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:36:22
+-------------------------------
+
+Registro di Log : 12:36:26 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:36:26
+-------------------------------
+
+Registro di Log : 12:36:27 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:36:27
+-------------------------------
+
+Registro di Log : 12:36:27 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:36:27
+-------------------------------
+
+Registro di Log : 12:36:27 martedì 29 gennaio 2019
+  :
+  :CHIUDI	29/01/2019 12:36:27
+-------------------------------
+
+Registro di Log : 12:36:58 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:36:58
+-------------------------------
+
+Registro di Log : 12:37:01 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:37:01
+-------------------------------
+
+Registro di Log : 12:37:02 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:37:02
+-------------------------------
+
+Registro di Log : 12:37:02 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:37:02
+-------------------------------
+
+Registro di Log : 12:39:24 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:39:24
+-------------------------------
+
+Registro di Log : 12:39:28 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:39:28
+-------------------------------
+
+Registro di Log : 12:39:29 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:39:29
+-------------------------------
+
+Registro di Log : 12:39:29 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:39:29
+-------------------------------
+
+Registro di Log : 12:39:47 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 12:39:47
+-------------------------------
+
+Registro di Log : 12:39:58 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:39:58
+-------------------------------
+
+Registro di Log : 12:39:59 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:39:59
+-------------------------------
+
+Registro di Log : 12:39:59 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:39:59
+-------------------------------
+
+Registro di Log : 12:39:59 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 12:39:59
+-------------------------------
+
+Registro di Log : 12:42:53 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:42:53
+-------------------------------
+
+Registro di Log : 12:43:18 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:43:18
+-------------------------------
+
+Registro di Log : 12:43:18 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:43:18
+-------------------------------
+
+Registro di Log : 12:43:18 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:43:18
+-------------------------------
+
+Registro di Log : 12:43:19 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 12:43:19
+-------------------------------
+
+Registro di Log : 12:43:30 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:43:30
+-------------------------------
+
+Registro di Log : 12:43:30 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:43:30
+-------------------------------
+
+Registro di Log : 12:43:30 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:43:30
+-------------------------------
+
+Registro di Log : 12:43:31 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 12:43:31
+-------------------------------
+
+Registro di Log : 12:46:23 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:46:23
+-------------------------------
+
+Registro di Log : 12:47:47 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:47:47
+-------------------------------
+
+Registro di Log : 12:47:47 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:47:47
+-------------------------------
+
+Registro di Log : 12:47:48 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:47:48
+-------------------------------
+
+Registro di Log : 12:47:48 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:47:48
+-------------------------------
+
+Registro di Log : 12:47:48 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:47:48
+-------------------------------
+
+Registro di Log : 12:48:13 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 12:48:10
+-------------------------------
+
+Registro di Log : 12:57:47 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 12:57:47
+-------------------------------
+
+Registro di Log : 12:57:54 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:57:54
+-------------------------------
+
+Registro di Log : 12:57:54 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:57:54
+-------------------------------
+
+Registro di Log : 12:57:54 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:57:54
+-------------------------------
+
+Registro di Log : 12:57:55 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 12:57:55
+-------------------------------
+
+Registro di Log : 12:58:07 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:58:07
+-------------------------------
+
+Registro di Log : 12:58:08 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 12:58:08
+-------------------------------
+
+Registro di Log : 12:58:08 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 12:58:08
+-------------------------------
+
+Registro di Log : 12:58:08 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 12:58:08
+-------------------------------
+
+Registro di Log : 13:05:25 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 13:05:25
+-------------------------------
+
+Registro di Log : 13:07:46 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:07:46
+-------------------------------
+
+Registro di Log : 13:07:46 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:07:46
+-------------------------------
+
+Registro di Log : 13:07:46 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:07:46
+-------------------------------
+
+Registro di Log : 13:07:48 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:07:48
+-------------------------------
+
+Registro di Log : 13:07:59 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:07:59
+-------------------------------
+
+Registro di Log : 13:08:00 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:08:00
+-------------------------------
+
+Registro di Log : 13:08:00 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:08:00
+-------------------------------
+
+Registro di Log : 13:08:00 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:08:00
+-------------------------------
+
+Registro di Log : 13:08:45 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:08:45
+-------------------------------
+
+Registro di Log : 13:08:46 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:08:46
+-------------------------------
+
+Registro di Log : 13:08:46 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:08:46
+-------------------------------
+
+Registro di Log : 13:08:46 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:08:46
+-------------------------------
+
+Registro di Log : 13:08:56 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:08:56
+-------------------------------
+
+Registro di Log : 13:08:57 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:08:57
+-------------------------------
+
+Registro di Log : 13:08:57 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:08:57
+-------------------------------
+
+Registro di Log : 13:08:57 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:08:57
+-------------------------------
+
+Registro di Log : 13:09:11 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:09:11
+-------------------------------
+
+Registro di Log : 13:09:12 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:09:12
+-------------------------------
+
+Registro di Log : 13:09:12 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:09:12
+-------------------------------
+
+Registro di Log : 13:09:12 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:09:12
+-------------------------------
+
+Registro di Log : 13:10:50 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:10:50
+-------------------------------
+
+Registro di Log : 13:10:50 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:10:50
+-------------------------------
+
+Registro di Log : 13:10:50 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:10:50
+-------------------------------
+
+Registro di Log : 13:10:56 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:10:56
+-------------------------------
+
+Registro di Log : 13:10:56 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:10:56
+-------------------------------
+
+Registro di Log : 13:10:56 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:10:56
+-------------------------------
+
+Registro di Log : 13:11:22 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:11:22
+-------------------------------
+
+Registro di Log : 13:11:22 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:11:22
+-------------------------------
+
+Registro di Log : 13:11:22 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:11:22
+-------------------------------
+
+Registro di Log : 13:11:26 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:11:26
+-------------------------------
+
+Registro di Log : 13:11:26 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:11:26
+-------------------------------
+
+Registro di Log : 13:11:26 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:11:26
+-------------------------------
+
+Registro di Log : 13:12:31 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 13:12:31
+-------------------------------
+
+Registro di Log : 13:12:58 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:12:58
+-------------------------------
+
+Registro di Log : 13:12:58 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:12:58
+-------------------------------
+
+Registro di Log : 13:12:58 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:12:58
+-------------------------------
+
+Registro di Log : 13:13:04 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:04
+-------------------------------
+
+Registro di Log : 13:13:04 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:04
+-------------------------------
+
+Registro di Log : 13:13:04 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:04
+-------------------------------
+
+Registro di Log : 13:13:08 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:08
+-------------------------------
+
+Registro di Log : 13:13:08 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:08
+-------------------------------
+
+Registro di Log : 13:13:09 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:09
+-------------------------------
+
+Registro di Log : 13:13:24 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:24
+-------------------------------
+
+Registro di Log : 13:13:24 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:24
+-------------------------------
+
+Registro di Log : 13:13:25 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:25
+-------------------------------
+
+Registro di Log : 13:13:28 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:28
+-------------------------------
+
+Registro di Log : 13:13:28 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:28
+-------------------------------
+
+Registro di Log : 13:13:28 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:28
+-------------------------------
+
+Registro di Log : 13:13:30 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:30
+-------------------------------
+
+Registro di Log : 13:13:30 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:30
+-------------------------------
+
+Registro di Log : 13:13:31 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:31
+-------------------------------
+
+Registro di Log : 13:13:45 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:45
+-------------------------------
+
+Registro di Log : 13:13:45 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:45
+-------------------------------
+
+Registro di Log : 13:13:45 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:45
+-------------------------------
+
+Registro di Log : 13:13:49 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:49
+-------------------------------
+
+Registro di Log : 13:13:49 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:49
+-------------------------------
+
+Registro di Log : 13:13:50 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:50
+-------------------------------
+
+Registro di Log : 13:13:51 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:51
+-------------------------------
+
+Registro di Log : 13:13:51 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:51
+-------------------------------
+
+Registro di Log : 13:13:51 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:51
+-------------------------------
+
+Registro di Log : 13:13:52 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:52
+-------------------------------
+
+Registro di Log : 13:13:52 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:52
+-------------------------------
+
+Registro di Log : 13:13:53 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:53
+-------------------------------
+
+Registro di Log : 13:13:54 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:54
+-------------------------------
+
+Registro di Log : 13:13:54 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:54
+-------------------------------
+
+Registro di Log : 13:13:54 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:54
+-------------------------------
+
+Registro di Log : 13:13:56 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:56
+-------------------------------
+
+Registro di Log : 13:13:56 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:56
+-------------------------------
+
+Registro di Log : 13:13:56 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:56
+-------------------------------
+
+Registro di Log : 13:13:57 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:13:57
+-------------------------------
+
+Registro di Log : 13:13:57 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:13:57
+-------------------------------
+
+Registro di Log : 13:13:57 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:13:57
+-------------------------------
+
+Registro di Log : 13:18:50 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:18:50
+-------------------------------
+
+Registro di Log : 13:18:50 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:18:50
+-------------------------------
+
+Registro di Log : 13:18:50 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:18:50
+-------------------------------
+
+Registro di Log : 13:19:41 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:19:41
+-------------------------------
+
+Registro di Log : 13:19:41 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:19:41
+-------------------------------
+
+Registro di Log : 13:19:41 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:19:41
+-------------------------------
+
+Registro di Log : 13:19:48 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:19:48
+-------------------------------
+
+Registro di Log : 13:19:48 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:19:48
+-------------------------------
+
+Registro di Log : 13:19:48 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:19:48
+-------------------------------
+
+Registro di Log : 13:19:51 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:19:51
+-------------------------------
+
+Registro di Log : 13:19:51 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:19:51
+-------------------------------
+
+Registro di Log : 13:19:51 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:19:51
+-------------------------------
+
+Registro di Log : 13:20:07 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:20:07
+-------------------------------
+
+Registro di Log : 13:20:07 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:20:07
+-------------------------------
+
+Registro di Log : 13:20:07 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:20:07
+-------------------------------
+
+Registro di Log : 13:20:12 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 13:20:12
+-------------------------------
+
+Registro di Log : 13:20:12 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 13:20:12
+-------------------------------
+
+Registro di Log : 13:20:12 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 13:20:12
+-------------------------------
+
+Registro di Log : 14:47:29 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 14:47:29
+-------------------------------
+
+Registro di Log : 14:47:34 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 14:47:34
+-------------------------------
+
+Registro di Log : 14:47:34 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 14:47:34
+-------------------------------
+
+Registro di Log : 14:47:35 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 14:47:35
+-------------------------------
+
+Registro di Log : 14:48:25 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 14:48:25
+-------------------------------
+
+Registro di Log : 14:48:25 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 14:48:25
+-------------------------------
+
+Registro di Log : 14:48:25 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 14:48:25
+-------------------------------
+
+Registro di Log : 14:48:34 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 14:48:34
+-------------------------------
+
+Registro di Log : 14:48:34 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 14:48:34
+-------------------------------
+
+Registro di Log : 14:48:35 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 14:48:35
+-------------------------------
+
+Registro di Log : 14:48:54 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 14:48:54
+-------------------------------
+
+Registro di Log : 14:48:54 martedì 29 gennaio 2019
+  :
+  :Dato letto: 37A97800	29/01/2019 14:48:54
+-------------------------------
+
+Registro di Log : 14:48:55 martedì 29 gennaio 2019
+  :
+  :CHIUDI	29/01/2019 14:48:55
+-------------------------------
+
+Registro di Log : 14:49:13 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 14:49:13
+-------------------------------
+
+Registro di Log : 14:49:13 martedì 29 gennaio 2019
+  :
+  :Dato letto: 878F1C2C	29/01/2019 14:49:13
+-------------------------------
+
+Registro di Log : 14:49:13 martedì 29 gennaio 2019
+  :
+  :CHIUDI	29/01/2019 14:49:13
+-------------------------------
+
+Registro di Log : 14:49:20 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 14:49:20
+-------------------------------
+
+Registro di Log : 14:49:20 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 14:49:20
+-------------------------------
+
+Registro di Log : 14:49:20 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 14:49:20
+-------------------------------
+
+Registro di Log : 14:49:27 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 14:49:27
+-------------------------------
+
+Registro di Log : 14:49:27 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 14:49:27
+-------------------------------
+
+Registro di Log : 14:49:27 martedì 29 gennaio 2019
+  :
+  :APRI	29/01/2019 14:49:27
+-------------------------------
+
+Registro di Log : 14:49:32 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 14:49:32
+-------------------------------
+
+Registro di Log : 14:49:32 martedì 29 gennaio 2019
+  :
+  :Dato letto: 878F1C2C	29/01/2019 14:49:32
+-------------------------------
+
+Registro di Log : 14:49:32 martedì 29 gennaio 2019
+  :
+  :CHIUDI	29/01/2019 14:49:32
+-------------------------------
+
+Registro di Log : 15:10:39 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 15:10:39
+-------------------------------
+
+Registro di Log : 15:10:41 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 15:10:41
+-------------------------------
+
+Registro di Log : 15:10:41 martedì 29 gennaio 2019
+  :
+  :Dato letto: -966497953	29/01/2019 15:10:41
+-------------------------------
+
+Registro di Log : 15:10:42 martedì 29 gennaio 2019
+  :
+  :NOT GRANTED	29/01/2019 15:10:42
+-------------------------------
+
+Registro di Log : 15:11:34 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 15:11:34
+-------------------------------
+
+Registro di Log : 15:11:37 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 15:11:37
+-------------------------------
+
+Registro di Log : 15:11:37 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 15:11:37
+-------------------------------
+
+Registro di Log : 15:11:38 martedì 29 gennaio 2019
+  :
+  :NOT GRANTED	29/01/2019 15:11:38
+-------------------------------
+
+Registro di Log : 15:12:02 martedì 29 gennaio 2019
+  :
+  :Inizializzato	29/01/2019 15:12:02
+-------------------------------
+
+Registro di Log : 15:12:04 martedì 29 gennaio 2019
+  :
+  :Nuova connessione IN	29/01/2019 15:12:04
+-------------------------------
+
+Registro di Log : 15:12:04 martedì 29 gennaio 2019
+  :
+  :Dato letto: C664695F	29/01/2019 15:12:04
+-------------------------------
+
+Registro di Log : 15:12:16 martedì 29 gennaio 2019
+  :
+  :NOT GRANTED	29/01/2019 15:12:16
+-------------------------------
+
+Registro di Log : 18:52:08 mercoledì 30 gennaio 2019
+  :
+  :Inizializzato	30/01/2019 18:52:07
+-------------------------------
+
+Registro di Log : 18:52:12 mercoledì 30 gennaio 2019
+  :
+  :Nuova connessione IN	30/01/2019 18:52:12
+-------------------------------
+
+Registro di Log : 18:52:12 mercoledì 30 gennaio 2019
+  :
+  :Dato letto: C664695F	30/01/2019 18:52:12
+-------------------------------
+
+Registro di Log : 18:53:11 mercoledì 30 gennaio 2019
+  :
+  :Inizializzato	30/01/2019 18:53:11
+-------------------------------
+
+Registro di Log : 18:53:16 mercoledì 30 gennaio 2019
+  :
+  :Nuova connessione IN	30/01/2019 18:53:16
+-------------------------------
+
+Registro di Log : 18:53:16 mercoledì 30 gennaio 2019
+  :
+  :Dato letto: C664695F	30/01/2019 18:53:16
+-------------------------------
+
+Registro di Log : 18:11:05 mercoledì 6 febbraio 2019
+  :
+  :Inizializzato	06/02/2019 18:11:05
+-------------------------------
+
+Registro di Log : 18:14:49 mercoledì 6 febbraio 2019
+  :
+  :Inizializzato	06/02/2019 18:14:49
+-------------------------------

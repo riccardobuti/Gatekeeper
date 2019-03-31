@@ -1,0 +1,27 @@
+c:\users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\r.buti\Desktop\ServerPorte\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\r.buti\Desktop\ServerPorte\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\r.buti\Desktop\ServerPorte\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\r.buti\Desktop\ServerPorte\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\r.buti\Desktop\ServerPorte\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\r.buti\Desktop\ServerPorte\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\r.buti\Desktop\ServerPorte\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\Mac\Dropbox\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\Mac\Dropbox\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\Mac\Dropbox\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\Mac\Dropbox\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+\\Mac\Dropbox\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\Mac\Dropbox\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\Mac\Dropbox\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\Mac\Dropbox\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\Mac\Dropbox\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\Mac\Dropbox\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\Mac\Dropbox\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\Mac\Dropbox\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+\\Mac\Dropbox\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache

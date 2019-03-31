@@ -1,0 +1,7 @@
+W:\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+W:\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+W:\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+W:\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\GateKeeper.csprojAssemblyReference.cache
+W:\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\GateKeeper.csproj.CoreCompileInputs.cache
+W:\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+W:\LAVORI\SienaJazz\GateKeeper MasterKey\ServerPorte 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
